@@ -24,3 +24,21 @@ The data is available in 8 csv files:
 7)orders.csv
 
 8)products.csv
+
+
+****Insights: ****
+conclusion is that this Query provides the total price and the number of orders based on different payment types and payment instalments The majority of orders were paid in “1” instalment, with credit card being the most popular payment method, accounting for the highest total price and order count.
+
+Order Trends: Orders have steadily increased, with a significant rise of 44,772 orders from 2016 to 2017, and a smaller increase in 2018.
+
+
+Seasonality: Most orders are placed in summer (Jan-Mar), with a peak in the afternoon (13-18 hrs).
+
+
+Regional Distribution: Orders are spread across 4,119 cities and 27 states, with varying customer densities per state.
+
+
+Order Cost Growth: The total order cost in 2018 has increased by 136.98% compared to 2017.
+
+
+Freight and Delivery Time: Analysis shows significant variations in delivery speeds across states, with some states experiencing faster deliveries than estimated.
